@@ -1,0 +1,13 @@
+flask
+flask-restful
+flask-cors
+flask-bcrypt
+flask-jwt-extended
+flask-sqlalchemy
+flask-marshmallow
+marshmallow-sqlalchemy
+flask-script
+flask-migrate
+werkzeug
+gunicorn
+Faker
