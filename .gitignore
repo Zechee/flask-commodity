@@ -1,0 +1,9 @@
+*__pycache__/
+.vscode/
+.vs/
+migrations/
+*.db
+uploads/
+*venv/
+.vscode
+app.pid
